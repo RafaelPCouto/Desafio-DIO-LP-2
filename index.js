@@ -37,4 +37,4 @@ let firstPlayerMessage = generatePlayerLevelMessage(firstPlayerRankedBalance, fi
 
 console.log(firstPlayerMessage);
 
-// Evitando a abordagem utilizando objetos e classes, para restringir as ferramentas ao que já foi estudado no bootcamp até o momento.
+// Evitando a abordagem utilizando objetos e classes, para restringir a aplicação às ferramentas que já foram estudadas no bootcamp até o momento.
